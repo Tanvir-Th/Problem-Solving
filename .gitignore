@@ -1,0 +1,16 @@
+# Java files
+*.class
+*.jar
+target/
+
+# C++ files
+*.o
+*.exe
+build/
+
+# Log files
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
